@@ -10,6 +10,14 @@
 |정보통신학부 유희준|정보통신학부 신민섭|
 |백엔드|백엔드 + 프론트 엔드|
 
+|![](https://avatars.githubusercontent.com/u/91720916?v=4)|![](https://avatars.githubusercontent.com/u/127920561?v=4)|![](https://avatars.githubusercontent.com/u/81418954?v=4)|
+|:---:|:---:|:---:|
+|[김종진](https://github.com/khakisage)|[조소현](https://github.com/cho-sohyun)|[최은석](https://github.com/xnelb013)|
+|구글 로그인</br>MSW & FIREBASE</br>마이페이지, 팔로잉 페이지|로그인</br>메인 페이지</br>검색 페이지|회원 가입</br>게시글 작성 & 수정</br>게시글 리스트 & 상세 조회|
+
+
+
+
 ## 흐름도
 ![image](https://github.com/HS-Notification-Field/.github/assets/92840513/9584f105-94f0-4aec-b360-531844317c99)
 
