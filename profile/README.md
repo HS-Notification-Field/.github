@@ -3,17 +3,17 @@
 ## 기간
 24.03 - 24.06
 
+## 기획 배경
+
 ## 팀원
 한신대학교 정보통신학부 유희준
 한신대학교 정보통신학부 신민섭
+
 ## 흐름도
 ![image](https://github.com/HS-Notification-Field/.github/assets/92840513/9584f105-94f0-4aec-b360-531844317c99)
 
 ## 아키텍쳐
 ![image](https://github.com/HS-Notification-Field/.github/assets/92840513/03eb602c-5b17-46ca-a82a-837144a3f29e)
-
-## ERD
-![image](https://github.com/HS-Notification-Field/.github/assets/92840513/24ea0d7a-9eec-4134-a57d-82acded9c2c5)
 
 ## 기술스택
 ### 백엔드
@@ -38,4 +38,28 @@
 ![github](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white) 
 ![webstorm](https://img.shields.io/badge/webstorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white) 
+
+
+## ERD
+![image](https://github.com/HS-Notification-Field/.github/assets/92840513/24ea0d7a-9eec-4134-a57d-82acded9c2c5)
+
+
+## API 명세서
+
+## 주요 기능
+
+## 🙌🏻 협업 규칙
+* 각자 저장소를 Fork하여 작업
+* 작업 진행
+* Pull Request 과정에서 충돌이 난 경우 충돌난 코드와 관련된 팀원들이 소통하여 충돌 해결 후 Merge
+* develop에서 모든 작업이 끝난 후 main으로 Pull Request & Rebase and Merge 후 프로젝트 종료
+
+## ✋🏻 깃허브 커밋 메시지 규칙
+```text
+feat: 새로운 기능 추가했을 때
+fix: 버그나 오류 수정했을 때
+refactor: 코드 리팩토링했을 때
+chore: 약간 애매한 기타 변경사항
+docs: 리드미 파일이나 md 파일 수정할 때 (문서작업)
+```
 
