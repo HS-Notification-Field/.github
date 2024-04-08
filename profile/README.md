@@ -13,9 +13,6 @@
 
 
 
-
-
-
 ## 흐름도
 ![image](https://github.com/HS-Notification-Field/.github/assets/92840513/9584f105-94f0-4aec-b360-531844317c99)
 
