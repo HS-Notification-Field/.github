@@ -47,7 +47,7 @@
 ## API 명세서
 
 ### Response
-```text
+```json
 // 200
 {
   "success": true,
@@ -57,7 +57,7 @@
 ```
 
 ### Error
-```text
+```json
 // 400
 {
   "success": false,
