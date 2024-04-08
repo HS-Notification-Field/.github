@@ -48,7 +48,7 @@
 
 ### Response
 ```json
-# 200
+// 200
 {
   "success": true,
   "message": "회원 가입에 성공했습니다.",
@@ -58,7 +58,7 @@
 
 ### Error
 ```json
-# 400
+// 400
 {
   "success": false,
   "message": "비밀번호가 일치하지 않습니다.",
