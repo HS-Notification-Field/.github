@@ -19,7 +19,7 @@
 ### 백엔드
 ![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) 
 ![springsecurity](https://img.shields.io/badge/springsecurity-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white) 
-![mysql](https://img.shields.io/badge/mysql-2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![junit5](https://img.shields.io/badge/junit5-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white) 
 ![gradle](https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white) 
 ![github](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white) 
