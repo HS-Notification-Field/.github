@@ -7,7 +7,6 @@
 
 ## 팀원
 |||
-|:---:|:---:|
 |[정보통신학부 유희준](https://github.com/UHeeJoon)|[정보통신학부 신민섭](https://github.com/ShinminSub6)|
 |백엔드|백엔드 + 프론트 엔드|
 
