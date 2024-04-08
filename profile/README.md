@@ -8,8 +8,8 @@
 ## 팀원
 |![](https://avatars.githubusercontent.com/u/92840513?v=4)|![](https://avatars.githubusercontent.com/u/114846624?v=4)|
 |:---:|:---:|
-|## [정보통신학부 유희준](https://github.com/UHeeJoon)|## [정보통신학부 신민섭](https://github.com/ShinminSub6)|
-|### 백엔드 + 프론트 엔드|### 백엔드|
+|[정보통신학부 유희준](https://github.com/UHeeJoon)|[정보통신학부 신민섭](https://github.com/ShinminSub6)|
+|백엔드 + 프론트 엔드|백엔드|
 
 
 
