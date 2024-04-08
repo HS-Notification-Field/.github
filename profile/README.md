@@ -31,6 +31,6 @@
 ![React](https://img.shields.io/badge/react-2320232a.svg?style=for-the-badge&logo=react&logoColor=white) 
 ![reactquery](https://img.shields.io/badge/reactquery-FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white) 
 ![recoil](https://img.shields.io/badge/recoil-3578E5.svg?style=for-the-badge&logo=recoil&logoColor=white) 
-![styledcomponents](https://img.shields.io/badge/styledcomponents-%DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=white) 
+![styledcomponents](https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=white) 
 ![axios](https://img.shields.io/badge/axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white) 
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) 
